@@ -1,1 +1,1 @@
-This repository contains all the python programs solved in different methods.
+This repository contains all the python programs.
